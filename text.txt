@@ -1,0 +1,4 @@
+https://www.twilio.com/docs/sms/quickstart/php#receive-and-reply-to-inbound-sms-messages-with-php
+
+https://stackoverflow.com/questions/47423741/twilio-permission-to-send-sms-has-not-been-enabled-for-the-region-indicated
+Twilio permission to send sms has not been enabled for the region indicated
